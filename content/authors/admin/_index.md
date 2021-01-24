@@ -11,16 +11,18 @@ role: Associate Professor of Software College
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Northeastern University
-  url: https://www.stanford.edu/
+  url: https://www.neu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests focus on cyber security especiallly secure multi-party computation (MPC), verifiable computation (VC), .
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Secure multi-party computation (MPC)
+- Verifiable outsourced computation (VC)
+- Cloud computing security
+- Blockchain and its application
+- Privacy perserving
 
 # Education to show in About widget
 education:
