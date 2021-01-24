@@ -22,20 +22,20 @@ interests:
 - Verifiable outsourced computation (VC)
 - Cloud computing security
 - Blockchain and its application
-- Privacy perserving
+- Data privacy
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Software Engineering
+    institution: Northeastern University
+    year: 2020
+  - course: MEng in Software Engineering
+    institution: Northeastern University
+    year: 2016
+  - course: BSc in Information Security
+    institution: Northeastern University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,7 +69,7 @@ social:
 email: "wangq3635@126.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Qiang Wang is an associate professor of Software College, Northeastern University(href: https://baidu.com), China. at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
