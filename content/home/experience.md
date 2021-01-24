@@ -4,7 +4,7 @@
 widget: experience
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 40
@@ -32,7 +32,7 @@ experience:
   - title: Visiting scholar
     company: Georgia Institute of Technology
     company_url: 'https://www.gatech.edu/'
-    location: Georgia
+    location: Atlanta, Georgia, USA
     date_start: '2018-11-01'
     date_end: '2019-11-01'
 ---
