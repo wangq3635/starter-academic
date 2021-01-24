@@ -35,11 +35,11 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+  - title: Visiting scholar
+    company: Georgia Institute of Technology
+    company_url: 'https://www.gatech.edu/'
+    location: Georgia
+    date_start: '2018-11-01'
+    date_end: '2019-11-01'
     description: Taught electronic engineering and researched semiconductor physics.
 ---
