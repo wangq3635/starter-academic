@@ -72,26 +72,3 @@ highlight_name: true
 Qiang Wang is an associate professor of <a href="https://sc.neu.edu.cn/">Software College</a>,  <a href="https://neu.edu.cn/">Northeastern University</a>, China. He received his Ph.D. degree in Software Engineering from Northeastern University in 2020 under the supervision of Prof. <a href="https://faculty.neu.edu.cn/fczhou/">Fucai Zhou</a> and <a href="https://faculty.neu.edu.cn/xuj/">Jian Xu</a>. Now, his research mainly focuses on secure multi-party computation (MPC), cloud computing security, applied cryptography, data privacy, trutsed execution environment (TEE), and blockchain. He has published several papers in top journal and conference such as IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Cloud Computing, and Future Generation and Computer Systems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
-<table border="0" align="center" id="keyinformation" class="hands">
-        <tr>
-            <td>
-                <h4>Key Information</h4>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p>
-                    If you are interested in the scientific research/engineering on the topic of networks security and privacy, machine learning and its security, and industrial networks and IoT, please contact me at zengrf at swc.neu.edu.cn or B420E of Information Building. The students with solid coding/mathematics foundation and perseverance are appreciated. If you would like to join us, please feel free to contact me.                </p>
-            </td>
-        </tr>
-        </table>
-    </table> 
-    <div style="margin-top:20px;float:left;">
-					<h1 class="box content_title" style="color:#ffc107;">News</h1>
-					<p style="margin-top: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am looking for self-motivated master
-						students with strong programming skills. If you
-						have a lot of imagination, sense of humor, perseverance, and are interested in my projects, please contact me.
-						(招收硕士研究生3名，如果你对智能软件开发技术研究方向感兴趣，请以邮件或面谈方式联系莹姐，周一至周日，10：00 am – 10：30
-						pm，随时可在信息学馆B406找到我。)
-					</p>
-				</div>
