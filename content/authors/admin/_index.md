@@ -86,3 +86,12 @@ Qiang Wang is an associate professor of <a href="https://sc.neu.edu.cn/">Softwar
         </tr>
         </table>
     </table> 
+    <div style="margin-top:20px;float:left;">
+					<h1 class="box content_title" style="color:#ffc107;">News</h1>
+					<p style="margin-top: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am looking for self-motivated master
+						students with strong programming skills. If you
+						have a lot of imagination, sense of humor, perseverance, and are interested in my projects, please contact me.
+						(招收硕士研究生3名，如果你对智能软件开发技术研究方向感兴趣，请以邮件或面谈方式联系莹姐，周一至周日，10：00 am – 10：30
+						pm，随时可在信息学馆B406找到我。)
+					</p>
+				</div>
