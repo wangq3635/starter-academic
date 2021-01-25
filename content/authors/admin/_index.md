@@ -19,7 +19,7 @@ bio: My research interests focus on cyber security especiallly secure multi-part
 # Interests to show in About widget
 interests:
 - Secure multi-party computation (MPC)
-- Trusted execution environment (TEE)
+- Trusted execution environment
 - Cloud computing security
 - Blockchain and its application
 - Data privacy
