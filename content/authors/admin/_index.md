@@ -72,7 +72,7 @@ email: "wangq3635@126.com"
 highlight_name: true
 ---
 
-Qiang Wang is an associate professor of <a href="http://www.w3school.com.cn/">Software College</a>, Northeastern University, China. at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Qiang Wang is an associate professor of <a href="https://sc.neu.edu.cn/">Software College</a>,  <a href="https://neu.edu.cn/">Northeastern University</a>, China. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
