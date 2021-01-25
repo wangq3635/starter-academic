@@ -14,7 +14,7 @@ organizations:
   url: https://www.neu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on cyber security especiallly secure multi-party computation (MPC), verifiable computation (VC), .
+bio: My research interests focus on cyber security especiallly secure multi-party computation, verifiable computation, cloud computing security.
 
 # Interests to show in About widget
 interests:
@@ -45,18 +45,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://github.com/wangq3635
+  link: https://scholar.google.com/citations?hl=en&user=RLh6KBwAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/wangq3635
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/qiang-wang-4a3277205/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -72,8 +69,8 @@ email: "wangq3635@126.com"
 highlight_name: true
 ---
 
-Qiang Wang is an associate professor of <a href="https://sc.neu.edu.cn/">Software College</a>,  <a href="https://neu.edu.cn/">Northeastern University</a>, China. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Qiang Wang is an associate professor of <a href="https://sc.neu.edu.cn/">Software College</a>,  <a href="https://neu.edu.cn/">Northeastern University</a>, China. He received his Ph.D. degree in Software Engineering from Northeastern University in 2020 under the supervision of Prof. <a href="https://faculty.neu.edu.cn/fczhou/">Fucai Zhou</a> and <a href="https://faculty.neu.edu.cn/xuj/">Jian Xu</a>. Now, his research mainly focuses on secure multi-party computation (MPC), cloud computing security, applied cryptography, data privacy, trutsed execution environment (TEE), and blockchain. He has published several papers in top journal and conference such as IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Cloud Computing, Future Generation and Computer Systems, etc.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+news:
