@@ -12,7 +12,7 @@ role: Associate Professor of Software College
 organizations:
 - name: Northeastern University
   url: https://www.neu.edu.cn/
-
+-address: B420E of Hunnan Info Building
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests focus on cyber security especiallly secure multi-party computation, verifiable computation, cloud computing security.
 
@@ -54,7 +54,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/qiang-wang-4a3277205/
-{{<icon name="envelope" pack="fas">}}: wangq3635@126.com
+
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
